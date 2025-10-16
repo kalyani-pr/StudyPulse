@@ -49,7 +49,6 @@ StudyPulse/
 ├── settings.gradle
 └── README.md
 
-
 ## 📸 Screenshots
 
 ### 🔐 Authentication Screens
