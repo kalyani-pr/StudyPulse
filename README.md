@@ -39,23 +39,32 @@ Follow these steps to set up the project on your local machine:
 ## 📂 Folder Structure
 
 StudyPulse/
- ├── app/
- │   ├── src/
- │   │   ├── main/
- │   │   │   ├── java/com/example/studyplanner/
- │   │   │   ├── res/
- │   │   │   └── AndroidManifest.xml
- ├── build.gradle
- ├── settings.gradle
- └── README.md
+├── app/
+│ ├── src/
+│ │ ├── main/
+│ │ │ ├── java/com/example/studyplanner/
+│ │ │ ├── res/
+│ │ │ └── AndroidManifest.xml
+├── build.gradle
+├── settings.gradle
+└── README.md
+
 
 ## 📸 Screenshots
 
-🔐 **Authentication Screens**
-<p align="center"> <img src="screenshots/SP_auth.png" width="250"> <img src="screenshots/SP_login.png" width="250"> <img src="screenshots/SP_signup.png" width="250"> </p>
+### 🔐 Authentication Screens
+<p align="center">
+  <img src="Screenshots/SP_auth.png" width="250">
+  <img src="Screenshots/SP_login.png" width="250">
+  <img src="Screenshots/SP_signup.png" width="250">
+</p>
 
-🧭 **Main Features**
-<p align="center"> <img src="screenshots/SP_dashboard.png" width="250"> <img src="screenshots/SP_notes.png" width="250"> <img src="screenshots/SP_tasks.png" width="250"> </p>
+### 🧭 Main Features
+<p align="center">
+  <img src="Screenshots/SP_dashboard.png" width="250">
+  <img src="Screenshots/SP_notes.png" width="250">
+  <img src="Screenshots/SP_tasks.png" width="250">
+</p>
 
 ## 👩‍💻 Author
 
