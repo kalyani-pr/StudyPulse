@@ -38,16 +38,18 @@ Follow these steps to set up the project on your local machine:
 
 ## 📂 Folder Structure
 
+```plaintext
 StudyPulse/
-├── app/
-│ ├── src/
-│ │ ├── main/
-│ │ │ ├── java/com/example/studyplanner/
-│ │ │ ├── res/
-│ │ │ └── AndroidManifest.xml
-├── build.gradle
-├── settings.gradle
-└── README.md
+ ├── app/
+ │   ├── src/
+ │   │   ├── main/
+ │   │   │   ├── java/com/example/studyplanner/
+ │   │   │   ├── res/
+ │   │   │   └── AndroidManifest.xml
+ ├── build.gradle
+ ├── settings.gradle
+ └── README.md
+
 
 ## 📸 Screenshots
 
