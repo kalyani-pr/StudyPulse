@@ -41,7 +41,7 @@ Follow these steps to set up the project on your local machine:
 StudyPulse/
  ├── app/
  │   ├── src/
- │   │   ├── main/7:56 PM 10/16/2025
+ │   │   ├── main/
  │   │   │   ├── java/com/example/studyplanner/
  │   │   │   ├── res/
  │   │   │   └── AndroidManifest.xml
@@ -51,22 +51,14 @@ StudyPulse/
 
 ## 📸 Screenshots
 
-### 🔐 Authentication Screens
-<p align="center">
-  <img src="screenshots/SP_auth.png" width="250">
-  <img src="screenshots/SP_login.png" width="250">
-  <img src="screenshots/SP_signup.png" width="250">
-</p>
+🔐 **Authentication Screens**
+<p align="center"> <img src="screenshots/SP_auth.png" width="250"> <img src="screenshots/SP_login.png" width="250"> <img src="screenshots/SP_signup.png" width="250"> </p>
 
-### 🧭 Main Features
-<p align="center">
-  <img src="screenshots/SP_dashboard.png" width="250">
-  <img src="screenshots/SP_notes.png" width="250">
-  <img src="screenshots/SP_tasks.png" width="250">
-</p>
+🧭 **Main Features**
+<p align="center"> <img src="screenshots/SP_dashboard.png" width="250"> <img src="screenshots/SP_notes.png" width="250"> <img src="screenshots/SP_tasks.png" width="250"> </p>
 
 ## 👩‍💻 Author
 
-**Kalyani**  
-📧 [kalyanipr.dev@gmail.com](mailto:kalyanipr.dev@gmail.com)  
+**Kalyani**
+📧 [kalyanipr.dev@gmail.com](mailto:kalyanipr.dev@gmail.com) 
 🔗 [GitHub Profile](https://github.com/kalyani-pr)
