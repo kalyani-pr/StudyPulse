@@ -27,44 +27,38 @@
 
 Follow these steps to set up the project on your local machine:
 
-1. Clone the repository:
-   ```bash
-   git clone git@github.com:kalyani-pr/StudyPulse.git
-2. Open the project in Android Studio.
+```bash
+git clone git@github.com:kalyani-pr/StudyPulse.git
+1. Open the project in Android Studio
 
-3. Let Gradle sync automatically.
+2. Let Gradle sync automatically
 
-4. Build and run the project on an emulator or Android device.
+3. Build and run the project on an emulator or physical Android device
 
 ## 📂 Folder Structure
 
-StudyPulse/
-├── app/
-│   ├── src/
-│   │   ├── main/
-│   │   │   ├── java/com/example/studyplanner/
-│   │   │   ├── res/
-│   │   │   └── AndroidManifest.xml
-├── build.gradle
-├── settings.gradle
-└── README.md
+- **StudyPulse/**
+  - **app/**
+    - **src/**
+      - **main/**
+        - **java/com/example/studyplanner/**
+        - **res/**
+        - **AndroidManifest.xml**
+  - **build.gradle**
+  - **settings.gradle**
+  - **README.md**
+
 
 ## 📸 Screenshots
+
 ### 🔐 Authentication Screens
-<p align="center"> <img src="screenshots/SP_auth.png" width="250"> <img src="screenshots/SP_login.png" width="250"> <img src="screenshots/SP_signup.png" width="250"> </p>
+<p align="center"> <img src="Screenshots/SP_auth.png" width="250"> <img src="Screenshots/SP_login.png" width="250"> <img src="Screenshots/SP_signup.png" width="250"> </p>
+
 ### 🧭 Main Features
-<p align="center"> <img src="screenshots/SP_dashboard.png" width="250"> <img src="screenshots/SP_notes.png" width="250"> <img src="screenshots/SP_tasks.png" width="250"> </p>
+<p align="center"> <img src="Screenshots/SP_dashboard.png" width="250"> <img src="Screenshots/SP_notes.png" width="250"> <img src="Screenshots/SP_tasks.png" width="250"> </p>
 
 ## 👩‍💻 Author
 
 **Kalyani**
-📧 [kalyanipr.dev@gmail.com](mailto:kalyanipr.dev@gmail.com) 
-🔗 [GitHub Profile](https://github.com/kalyani-pr)
-
-
-
-## 👩‍💻 Author
-
-**Kalyani**
-📧 [kalyanipr.dev@gmail.com](mailto:kalyanipr.dev@gmail.com) 
+📧 [kalyanipr.dev@gmail.com](mailto:kalyanipr.dev@gmail.com)
 🔗 [GitHub Profile](https://github.com/kalyani-pr)
