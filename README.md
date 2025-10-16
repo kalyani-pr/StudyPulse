@@ -1,15 +1,72 @@
-# Todo-List
-An app to add your todo. 
+# 📚 StudyPulse - Android Productivity App
 
-You can add your todo list into the app set the time for it you will get reminder on the exact time. You can check the list as well as complete mark the list as complete once a task is been completed, delete the task if it is no required, edit it to make changes in the date, time, title etc. 
+**StudyPulse** is an Android app designed to help students organize their study schedules, manage notes, and stay on top of tasks with reminders and alarms.
 
-An other option is the calendar and you can have an overview of all the task in a concise view.
+---
 
+## 🚀 Features
 
-Tech Stack
-- Androidx
-- Calligraphy for fonts
-- Butterknife for binding the ids
-- Room database
-- Glide
-- Calendar View
+- 🗓️ Task management with reminders  
+- 📝 Note-taking and editing  
+- ⏰ Alarm and notifications system  
+- 🎨 Clean UI built with custom fonts and animations  
+- 💾 Local storage using SQLite database  
+
+---
+
+## 🧰 Tech Stack
+
+- **Language:** Java  
+- **Framework:** Android SDK  
+- **Database:** SQLite  
+- **IDE:** Android Studio  
+
+---
+
+## ⚙️ Installation & Setup
+
+Follow these steps to set up the project on your local machine:
+
+1. Clone the repository:
+   ```bash
+   git clone git@github.com:kalyani-pr/StudyPulse.git
+2. Open the project in Android Studio.
+
+3. Let Gradle sync automatically.
+
+4. Build and run the project on an emulator or Android device.
+
+## 📂 Folder Structure
+
+StudyPulse/
+ ├── app/
+ │   ├── src/
+ │   │   ├── main/7:56 PM 10/16/2025
+ │   │   │   ├── java/com/example/studyplanner/
+ │   │   │   ├── res/
+ │   │   │   └── AndroidManifest.xml
+ ├── build.gradle
+ ├── settings.gradle
+ └── README.md
+
+## 📸 Screenshots
+
+### 🔐 Authentication Screens
+<p align="center">
+  <img src="screenshots/SP_auth.png" width="250">
+  <img src="screenshots/SP_login.png" width="250">
+  <img src="screenshots/SP_signup.png" width="250">
+</p>
+
+### 🧭 Main Features
+<p align="center">
+  <img src="screenshots/SP_dashboard.png" width="250">
+  <img src="screenshots/SP_notes.png" width="250">
+  <img src="screenshots/SP_tasks.png" width="250">
+</p>
+
+## 👩‍💻 Author
+
+**Kalyani**  
+📧 [kalyanipr.dev@gmail.com](mailto:kalyanipr.dev@gmail.com)  
+🔗 [GitHub Profile](https://github.com/kalyani-pr)
