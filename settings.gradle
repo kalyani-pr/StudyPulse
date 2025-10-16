@@ -1,0 +1,2 @@
+rootProject.name='Studyplanner'
+include ':app'
