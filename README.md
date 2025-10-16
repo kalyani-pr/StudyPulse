@@ -1,64 +1,72 @@
-# 📚 StudyPulse - Android Productivity App
+📚 StudyPulse - Android Productivity App
 
-**StudyPulse** is an Android app designed to help students organize their study schedules, manage notes, and stay on top of tasks with reminders and alarms.
+StudyPulse is an Android app designed to help students organize their study schedules, manage notes, and stay on top of tasks with reminders and alarms.
 
----
+🚀 Features
 
-## 🚀 Features
+🗓️ Task management with reminders
 
-- 🗓️ Task management with reminders  
-- 📝 Note-taking and editing  
-- ⏰ Alarm and notifications system  
-- 🎨 Clean UI built with custom fonts and animations  
-- 💾 Local storage using SQLite database  
+📝 Note-taking and editing
 
----
+⏰ Alarm and notifications system
 
-## 🧰 Tech Stack
+🎨 Clean UI built with custom fonts and animations
 
-- **Language:** Java  
-- **Framework:** Android SDK  
-- **Database:** SQLite  
-- **IDE:** Android Studio  
+💾 Local storage using SQLite database
 
----
+🧰 Tech Stack
 
-## ⚙️ Installation & Setup
+Language: Java
+
+Framework: Android SDK
+
+Database: SQLite
+
+IDE: Android Studio
+
+⚙️ Installation & Setup
 
 Follow these steps to set up the project on your local machine:
 
-```bash
+Clone the repository using SSH:
 git clone git@github.com:kalyani-pr/StudyPulse.git
-1. Open the project in Android Studio
 
-2. Let Gradle sync automatically
+Open the project in Android Studio.
 
-3. Build and run the project on an emulator or physical Android device
+Let Gradle sync automatically.
 
-## 📂 Folder Structure
+Build and run the project on an emulator or physical Android device.
 
-- **StudyPulse/**
-  - **app/**
-    - **src/**
-      - **main/**
-        - **java/com/example/studyplanner/**
-        - **res/**
-        - **AndroidManifest.xml**
-  - **build.gradle**
-  - **settings.gradle**
-  - **README.md**
+📂 Folder Structure
 
+StudyPulse/
 
-## 📸 Screenshots
+app/
 
-### 🔐 Authentication Screens
-<p align="center"> <img src="Screenshots/SP_auth.png" width="250"> <img src="Screenshots/SP_login.png" width="250"> <img src="Screenshots/SP_signup.png" width="250"> </p>
+src/
 
-### 🧭 Main Features
-<p align="center"> <img src="Screenshots/SP_dashboard.png" width="250"> <img src="Screenshots/SP_notes.png" width="250"> <img src="Screenshots/SP_tasks.png" width="250"> </p>
+main/
 
-## 👩‍💻 Author
+java/com/example/studyplanner/
 
-**Kalyani**
-📧 [kalyanipr.dev@gmail.com](mailto:kalyanipr.dev@gmail.com)
-🔗 [GitHub Profile](https://github.com/kalyani-pr)
+res/
+
+AndroidManifest.xml
+
+build.gradle
+
+settings.gradle
+
+README.md
+
+📸 Screenshots
+🔐 Authentication Screens
+<p align="center"> <img src="screenshots/SP_auth.png" width="250" /> <img src="screenshots/SP_login.png" width="250" /> <img src="screenshots/SP_signup.png" width="250" /> </p>
+🧭 Main Features
+<p align="center"> <img src="screenshots/SP_dashboard.png" width="250" /> <img src="screenshots/SP_notes.png" width="250" /> <img src="screenshots/SP_tasks.png" width="250" /> </p>
+👩‍💻 Author
+
+Kalyani
+📧 kalyanipr.dev@gmail.com
+
+🔗 GitHub Profile
