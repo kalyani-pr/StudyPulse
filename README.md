@@ -121,12 +121,3 @@ Follow these steps to set up the project on your local machine:
 
 
 ---
-
-
-## 🪪 License  
-
-This project is licensed under the **MIT License** — feel free to use, modify, and distribute.  
-See the LICENSE file for details.
-
-
----
